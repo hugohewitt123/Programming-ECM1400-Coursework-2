@@ -1,1 +1,1 @@
-# Programming-ECM1400-Courseword-2
+# Programming-ECM1400-Coursework-2
